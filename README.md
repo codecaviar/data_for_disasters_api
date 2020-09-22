@@ -57,9 +57,11 @@ The data_modeling.py file is a machine learning pipeline that:
 
 ### Disaster Response App
 
-<img src="assets/fig4-disaster-response-pipeline.png>
-<img src="assets/fig6-classify-message-results.png>
-<img src="assets/fig7_2-overview-training-category-data.png>
+<img src="assets/fig4-disaster-response-pipeline.png" />
+
+<img src="assets/fig6-classify-message-results.png" />
+
+<img src="assets/fig7_2-overview-training-category-data.png" />
 
 ## Authors
 
